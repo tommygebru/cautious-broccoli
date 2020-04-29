@@ -12,7 +12,7 @@ body {
 	color: aliceblue;
 	border: solid 1px black;
 }
-#parent {
+#parent, #letterbox {
 	width: 700px;
 	height: 400px;
 	margin: 200px 0;
@@ -33,3 +33,4 @@ body {
 	border: black 1px solid;
 	margin: 0 15px;
 }
+#letterbox{height: 200px; margin:0 auto; border: solid 1px black;}
