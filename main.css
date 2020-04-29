@@ -34,3 +34,4 @@ body {
 	margin: 0 15px;
 }
 #letterbox{height: 200px; margin:0 auto; border: solid 1px black;}
+#letterbox div{display: inline;}
